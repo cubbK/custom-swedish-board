@@ -1,0 +1,2230 @@
+{
+  "verbs": [
+    {
+      "wordSwedish": "avboka",
+      "wordEnglish": "cancel",
+      "sentenceSwedish": "ställa in mötet",
+      "sentenceEnglish": "cancel the meeting",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1555708.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/610104.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8465_96square.jpg"
+    },
+    {
+      "wordSwedish": "göra",
+      "wordEnglish": "do",
+      "sentenceSwedish": "Kvinnan gör hushållsarbete.",
+      "sentenceEnglish": "The woman does housework.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348118.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348120.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9432_96square.jpg"
+    },
+    {
+      "wordSwedish": "gå",
+      "wordEnglish": "go",
+      "sentenceSwedish": "gå rakt fram",
+      "sentenceEnglish": "go straight ahead",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512529.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975364.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9499_96square.jpg"
+    },
+    {
+      "wordSwedish": "äta",
+      "wordEnglish": "eat",
+      "sentenceSwedish": "Pojken äter en varmkorv.",
+      "sentenceEnglish": "The boy is eating a hot dog.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283149.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348013.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8872_96square.jpg"
+    },
+    {
+      "wordSwedish": "komma",
+      "wordEnglish": "come",
+      "sentenceSwedish": "Flickan kom emot filmkameran.",
+      "sentenceEnglish": "The girl came towards the video camera.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348304.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348306.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9189_96square.jpg"
+    },
+    {
+      "wordSwedish": "dö",
+      "wordEnglish": "die",
+      "sentenceSwedish": "Han dog i en olycka förra året.",
+      "sentenceEnglish": "He died in an accident last year.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522633.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975253.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8424_96square.jpg"
+    },
+    {
+      "wordSwedish": "anlända",
+      "wordEnglish": "arrive",
+      "sentenceSwedish": "Pappan kommer till parken.",
+      "sentenceEnglish": "The father arrives at the park.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348601.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348605.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22282_96square.jpg"
+    },
+    {
+      "wordSwedish": "vila",
+      "wordEnglish": "rest",
+      "sentenceSwedish": "Mannen vilar i hammocken.",
+      "sentenceEnglish": "The man is resting in the hammock.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348178.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348179.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10362_96square.jpg"
+    },
+    {
+      "wordSwedish": "laga mat",
+      "wordEnglish": "cook",
+      "sentenceSwedish": "Kocken lagade mat i köket.",
+      "sentenceEnglish": "The chef cooked in the kitchen.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351415.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348942.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21868_96square.jpg"
+    },
+    {
+      "wordSwedish": "komma",
+      "wordEnglish": "return",
+      "sentenceSwedish": "Pappan kom hem på kvällen.",
+      "sentenceEnglish": "The father returned home in the evening.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1712376.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348066.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8301_96square.jpg"
+    },
+    {
+      "wordSwedish": "sova",
+      "wordEnglish": "sleep",
+      "sentenceSwedish": "Flickan ska just sova.",
+      "sentenceEnglish": "The girl is about to sleep.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348110.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975884.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8905_96square.jpg"
+    },
+    {
+      "wordSwedish": "vakna",
+      "wordEnglish": "wake up",
+      "sentenceSwedish": "Mannen vaknar.",
+      "sentenceEnglish": "The man is waking up.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283155.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348021.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17275_96square.jpg"
+    },
+    {
+      "wordSwedish": "känna",
+      "wordEnglish": "feel",
+      "sentenceSwedish": "Pojken kände sig ledsen.",
+      "sentenceEnglish": "The boy felt sad.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/585142.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348288.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21864_96square.jpg"
+    },
+    {
+      "wordSwedish": "rita",
+      "wordEnglish": "draw",
+      "sentenceSwedish": "Konstnären ritar kinesiska tecken med en\n                            pensel.",
+      "sentenceEnglish": "The artist is drawing Chinese characters with a\n                          writing brush.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348723.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975514.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9448_96square.jpg"
+    },
+    {
+      "wordSwedish": "svara",
+      "wordEnglish": "answer",
+      "sentenceSwedish": "Eleverna svarade på frågorna.",
+      "sentenceEnglish": "The students answered the questions.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1555644.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975916.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9035_96square.jpg"
+    },
+    {
+      "wordSwedish": "läsa",
+      "wordEnglish": "read",
+      "sentenceSwedish": "Pojken läser en bok i parken.",
+      "sentenceEnglish": "The boy is reading a book in the park.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348374.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283487.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8120_96square.jpg"
+    },
+    {
+      "wordSwedish": "undervisa",
+      "wordEnglish": "teach",
+      "sentenceSwedish": "Läraren undervisade klassen.",
+      "sentenceEnglish": "The teacher taught the class.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/428578.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/985940.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9056_96square.jpg"
+    },
+    {
+      "wordSwedish": "fråga",
+      "wordEnglish": "ask",
+      "sentenceSwedish": "Högskolestudenten frågar professorn en fråga.",
+      "sentenceEnglish": "The university student asks the professor a\n                          question.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348447.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348451.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8031_96square.jpg"
+    },
+    {
+      "wordSwedish": "ta emot",
+      "wordEnglish": "receive",
+      "sentenceSwedish": "Mannen tog emot pengar.",
+      "sentenceEnglish": "The man received money.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348573.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348575.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21811_96square.jpg"
+    },
+    {
+      "wordSwedish": "planera",
+      "wordEnglish": "plan",
+      "sentenceSwedish": "Vi ska planerar semestern till Europa.",
+      "sentenceEnglish": "We'll plan the holiday to Europe.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452362.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975712.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21984_96square.jpg"
+    },
+    {
+      "wordSwedish": "förklara",
+      "wordEnglish": "explain",
+      "sentenceSwedish": "Professorn förklarade diagrammet.",
+      "sentenceEnglish": "The professor explained the diagram.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348232.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348234.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17273_96square.jpg"
+    },
+    {
+      "wordSwedish": "kan",
+      "wordEnglish": "can",
+      "sentenceSwedish": "Han kan köra men inte så bra.",
+      "sentenceEnglish": "He can drive, but not very well.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170802.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351407.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9008_96square.jpg"
+    },
+    {
+      "wordSwedish": "stänga",
+      "wordEnglish": "close",
+      "sentenceSwedish": "Högskolestudenten stängde dörren.",
+      "sentenceEnglish": "The university student closed the door.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/428583.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348524.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21849_96square.jpg"
+    },
+    {
+      "wordSwedish": "köpa",
+      "wordEnglish": "buy",
+      "sentenceSwedish": "Vi ska handla alkohol och parfym på tax-freen på\n                            flygplatsen.",
+      "sentenceEnglish": "We'll buy duty-free alcohol and perfume at the duty\n                          free shops in the airport.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348914.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975520.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/23345_96square.jpg"
+    },
+    {
+      "wordSwedish": "vill ha",
+      "wordEnglish": "want",
+      "sentenceSwedish": "Kontorsarbetarna ville ha munken.",
+      "sentenceEnglish": "The office workers wanted the doughnut.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512335.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348141.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9462_96square.jpg"
+    },
+    {
+      "wordSwedish": "springa",
+      "wordEnglish": "run",
+      "sentenceSwedish": "springa på en bana",
+      "sentenceEnglish": "run on a track",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348689.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348695.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10147_96square.jpg"
+    },
+    {
+      "wordSwedish": "besöka",
+      "wordEnglish": "tour",
+      "sentenceSwedish": "Vandringsresa",
+      "sentenceEnglish": "hiking tour",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609830.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609834.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8781_96square.jpg"
+    },
+    {
+      "wordSwedish": "placera",
+      "wordEnglish": "put",
+      "sentenceSwedish": "Var snäll att försöka placera den här lådan på den\n                            översta hyllan.",
+      "sentenceEnglish": "Please try to put this box on the top shelf.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521813.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521814.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9094_96square.jpg"
+    },
+    {
+      "wordSwedish": "använda",
+      "wordEnglish": "use",
+      "sentenceSwedish": "Programmeraren använder datorn.",
+      "sentenceEnglish": "The programmer is using the computer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348168.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348169.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17270_96square.jpg"
+    },
+    {
+      "wordSwedish": "minnas",
+      "wordEnglish": "remember",
+      "sentenceSwedish": "Kvinnan mindes numret.",
+      "sentenceEnglish": "The woman remembered the number.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348671.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348672.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20062_96square.jpg"
+    },
+    {
+      "wordSwedish": "åka",
+      "wordEnglish": "ride",
+      "sentenceSwedish": "Eleverna åkte bussen.",
+      "sentenceEnglish": "The students rode the bus.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348337.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975135.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22302_96square.jpg"
+    },
+    {
+      "wordSwedish": "borsta",
+      "wordEnglish": "brush",
+      "sentenceSwedish": "Den unga flickan borstar sina tänder med en\n                            tandborste.",
+      "sentenceEnglish": "The young girl is brushing her teeth with a\n                          toothbrush.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283139.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283143.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21892_96square.jpg"
+    },
+    {
+      "wordSwedish": "tvätta",
+      "wordEnglish": "wash",
+      "sentenceSwedish": "Pojken diskar faten i diskhon.",
+      "sentenceEnglish": "The boy washes the dishes in the sink.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521950.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522189.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9806_96square.jpg"
+    },
+    {
+      "wordSwedish": "ringa",
+      "wordEnglish": "call ",
+      "sentenceSwedish": "Jag ringer dig senare.",
+      "sentenceEnglish": "I'll telephone you later.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609107.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609110.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17274_96square.jpg"
+    },
+    {
+      "wordSwedish": "bada",
+      "wordEnglish": "bathe",
+      "sentenceSwedish": "Bröderna badar på kvällen.",
+      "sentenceEnglish": "The brothers bathe in the evening.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283187.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348102.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21895_96square.jpg"
+    },
+    {
+      "wordSwedish": "titta",
+      "wordEnglish": "watch",
+      "sentenceSwedish": "Familjen tittade på TV.",
+      "sentenceEnglish": "The family watched television.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283196.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348086.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10071_96square.jpg"
+    },
+    {
+      "wordSwedish": "duscha",
+      "wordEnglish": "shower",
+      "sentenceSwedish": "Mannen duschade i duschen.",
+      "sentenceEnglish": "The man showered in the shower.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283192.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348093.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21847_96square.jpg"
+    },
+    {
+      "wordSwedish": "sätta på",
+      "wordEnglish": "turn on",
+      "sentenceSwedish": "tända en lampa",
+      "sentenceEnglish": "turn on a light",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1555683.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512028.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22060_96square.jpg"
+    },
+    {
+      "wordSwedish": "prata",
+      "wordEnglish": "talk",
+      "sentenceSwedish": "Operatören talade med en kund.",
+      "sentenceEnglish": "The operator talked with a customer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609091.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348313.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21812_96square.jpg"
+    },
+    {
+      "wordSwedish": "se",
+      "wordEnglish": "see",
+      "sentenceSwedish": "Turisten såg solnedgången.",
+      "sentenceEnglish": "The tourists saw the sunset.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351416.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/349048.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17269_96square.jpg"
+    },
+    {
+      "wordSwedish": "säga",
+      "wordEnglish": "say",
+      "sentenceSwedish": "Människorna säger, \"Hej\".",
+      "sentenceEnglish": "The people say, \"Hello.\"",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351519.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512522.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9441_96square.jpg"
+    },
+    {
+      "wordSwedish": "leta",
+      "wordEnglish": "search",
+      "sentenceSwedish": "leta efter en myra",
+      "sentenceEnglish": "search for an ant",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351517.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512418.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22078_96square.jpg"
+    },
+    {
+      "wordSwedish": "göra",
+      "wordEnglish": "make",
+      "sentenceSwedish": "Kocken gjorde apelsinjuice.",
+      "sentenceEnglish": "The chef made orange juice.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351412.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348128.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8742_96square.jpg"
+    },
+    {
+      "wordSwedish": "lyssna",
+      "wordEnglish": "listen",
+      "sentenceSwedish": "Kvinnan lyssnade på musik.",
+      "sentenceEnglish": "The woman listened to music.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/428584.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348768.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9595_96square.jpg"
+    },
+    {
+      "wordSwedish": "skratta",
+      "wordEnglish": "laugh",
+      "sentenceSwedish": "Paret skrattade åt bilden.",
+      "sentenceEnglish": "The couple laughed at the picture.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351409.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/349095.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9527_96square.jpg"
+    },
+    {
+      "wordSwedish": "avsluta",
+      "wordEnglish": "finish",
+      "sentenceSwedish": "Skidåkaren avslutade loppet.",
+      "sentenceEnglish": "The skier finished the race.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351659.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348536.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10335_96square.jpg"
+    },
+    {
+      "wordSwedish": "vänta",
+      "wordEnglish": "wait",
+      "sentenceSwedish": "vänta på ett tåg",
+      "sentenceEnglish": "wait for a train",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348184.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348189.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9659_96square.jpg"
+    },
+    {
+      "wordSwedish": "resa",
+      "wordEnglish": "travel",
+      "sentenceSwedish": "resa med bagage",
+      "sentenceEnglish": "travel with luggage",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/618542.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522483.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8540_96square.jpg"
+    },
+    {
+      "wordSwedish": "öppna",
+      "wordEnglish": "open",
+      "sentenceSwedish": "Pojken öppnade dörren.",
+      "sentenceEnglish": "The boy opened the door.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348510.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348516.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17416_96square.jpg"
+    },
+    {
+      "wordSwedish": "plugga",
+      "wordEnglish": "study",
+      "sentenceSwedish": "Gymnasieeleverna pluggade i biblioteket.",
+      "sentenceEnglish": "The high school students studied in the\n                          library.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348399.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348405.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9965_96square.jpg"
+    }
+  ],
+  "adjectives": [
+    {
+      "wordSwedish": "vacker",
+      "wordEnglish": "beautiful",
+      "sentenceSwedish": "vacker skådespelerska",
+      "sentenceEnglish": "beautiful actress",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/169985.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351450.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25829_96square.jpg"
+    },
+    {
+      "wordSwedish": "liten",
+      "wordEnglish": "small",
+      "sentenceSwedish": "väldigt liten",
+      "sentenceEnglish": "very small",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609104.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351441.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21795_96square.jpg"
+    },
+    {
+      "wordSwedish": "ny",
+      "wordEnglish": "new",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170043.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14965_96square.jpg"
+    },
+    {
+      "wordSwedish": "gammal",
+      "wordEnglish": "old",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170054.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17241_96square.jpg"
+    },
+    {
+      "wordSwedish": "sen",
+      "wordEnglish": "late",
+      "sentenceSwedish": "sen till ett möte",
+      "sentenceEnglish": "late for a meeting",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609903.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975802.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17408_96square.jpg"
+    },
+    {
+      "wordSwedish": "lätt",
+      "wordEnglish": "easy",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171170.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8717_96square.jpg"
+    },
+    {
+      "wordSwedish": "viktig",
+      "wordEnglish": "important",
+      "sentenceSwedish": "Frukost är det viktigaste målet på dagen.",
+      "sentenceEnglish": "Breakfast is the most important meal of the\n                          day.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170790.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351676.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8817_96square.jpg"
+    },
+    {
+      "wordSwedish": "livlig",
+      "wordEnglish": "lively",
+      "sentenceSwedish": "livligt par",
+      "sentenceEnglish": "lively couple",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170879.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609607.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17346_96square.jpg"
+    },
+    {
+      "wordSwedish": "kallt",
+      "wordEnglish": "cold",
+      "sentenceSwedish": "Dina händer är så kalla.",
+      "sentenceEnglish": "Your hands are so cold.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171138.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351608.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/23630_96square.jpg"
+    },
+    {
+      "wordSwedish": "varm",
+      "wordEnglish": "hot",
+      "sentenceSwedish": "varm dag",
+      "sentenceEnglish": "hot day",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/659821.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283072.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9099_96square.jpg"
+    },
+    {
+      "wordSwedish": "stor",
+      "wordEnglish": "big",
+      "sentenceSwedish": "Den stora stolen är i mitten.",
+      "sentenceEnglish": "The big chair is in the middle.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171155.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609169.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22069_96square.jpg"
+    },
+    {
+      "wordSwedish": "bred",
+      "wordEnglish": "wide",
+      "sentenceSwedish": "Floden är bred och djup.",
+      "sentenceEnglish": "The river is wide and deep.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171156.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522322.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22073_96square.jpg"
+    },
+    {
+      "wordSwedish": "smal",
+      "wordEnglish": "narrow",
+      "sentenceSwedish": "smal gång",
+      "sentenceEnglish": "narrow pass",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609454.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522324.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8265_96square.jpg"
+    },
+    {
+      "wordSwedish": "kort",
+      "wordEnglish": "short",
+      "sentenceSwedish": "kort och lång",
+      "sentenceEnglish": "short and tall",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/914491.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609048.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17223_96square.jpg"
+    },
+    {
+      "wordSwedish": "lång",
+      "wordEnglish": "long",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171172.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22070_96square.jpg"
+    },
+    {
+      "wordSwedish": "bra",
+      "wordEnglish": "good",
+      "sentenceSwedish": "Grönsaker är bra för dig.",
+      "sentenceEnglish": "Vegetables are good for you.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/881491.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351444.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17033_96square.jpg"
+    },
+    {
+      "wordSwedish": "stark",
+      "wordEnglish": "strong",
+      "sentenceSwedish": "stark tyfon",
+      "sentenceEnglish": "strong typhoon",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609367.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351552.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25751_96square.jpg"
+    },
+    {
+      "wordSwedish": "låg",
+      "wordEnglish": "low",
+      "sentenceSwedish": "Priset på bilen är för lågt.",
+      "sentenceEnglish": "The price of this car is too low.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351557.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351560.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17496_96square.jpg"
+    },
+    {
+      "wordSwedish": "hög, dyr",
+      "wordEnglish": "high",
+      "sentenceSwedish": "Priset på jackan är för dyrt.",
+      "sentenceEnglish": "The price of this jacket is too high.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351553.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351556.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17230_96square.jpg"
+    },
+    {
+      "wordSwedish": "dålig",
+      "wordEnglish": "bad",
+      "sentenceSwedish": "Mannen är ond.",
+      "sentenceEnglish": "The man is bad.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351463.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351467.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8487_96square.jpg"
+    },
+    {
+      "wordSwedish": "vänlig",
+      "wordEnglish": "kind",
+      "sentenceSwedish": "vänlig gest",
+      "sentenceEnglish": "kind act",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521991.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521995.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9564_96square.jpg"
+    },
+    {
+      "wordSwedish": "känd",
+      "wordEnglish": "famous",
+      "sentenceSwedish": "känd skådesspelare",
+      "sentenceEnglish": "famous actor",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522520.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/522522.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8620_96square.jpg"
+    },
+    {
+      "wordSwedish": "tyst",
+      "wordEnglish": "quiet",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1309569.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/26044_96square.jpg"
+    },
+    {
+      "wordSwedish": "liten",
+      "wordEnglish": "little",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640896.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/24855_96square.jpg"
+    },
+    {
+      "wordSwedish": "olika",
+      "wordEnglish": "different",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640897.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21774_96square.jpg"
+    },
+    {
+      "wordSwedish": "samma",
+      "wordEnglish": "same",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640898.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27226_96square.jpg"
+    },
+    {
+      "wordSwedish": "bra",
+      "wordEnglish": "great",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640899.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/26139_96square.jpg"
+    },
+    {
+      "wordSwedish": "ung",
+      "wordEnglish": "young",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640900.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25907_96square.jpg"
+    },
+    {
+      "wordSwedish": "tidig",
+      "wordEnglish": "early",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640901.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22048_96square.jpg"
+    },
+    {
+      "wordSwedish": "stor",
+      "wordEnglish": "large",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1640902.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17495_96square.jpg"
+    }
+  ],
+  "adverbs": [
+    {
+      "wordSwedish": "också",
+      "wordEnglish": "also",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/614473.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20760_96square.jpg"
+    },
+    {
+      "wordSwedish": "fortfarande",
+      "wordEnglish": "still",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472376.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17027_96square.jpg"
+    },
+    {
+      "wordSwedish": "dock",
+      "wordEnglish": "however",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472377.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27136_96square.jpg"
+    },
+    {
+      "wordSwedish": "därför",
+      "wordEnglish": "therefore",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472378.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27142_96square.jpg"
+    },
+    {
+      "wordSwedish": "å andra sidan",
+      "wordEnglish": "on the other hand",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472379.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25376_96square.jpg"
+    },
+    {
+      "wordSwedish": "för närvarande",
+      "wordEnglish": "currently",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472380.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27133_96square.jpg"
+    },
+    {
+      "wordSwedish": "faktiskt",
+      "wordEnglish": "in fact",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472381.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27138_96square.jpg"
+    },
+    {
+      "wordSwedish": "slutligen",
+      "wordEnglish": "finally",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472382.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27135_96square.jpg"
+    },
+    {
+      "wordSwedish": "trots",
+      "wordEnglish": "nevertheless",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472383.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27140_96square.jpg"
+    },
+    {
+      "wordSwedish": "följaktligen/därmed/därför",
+      "wordEnglish": "consequently",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472384.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27132_96square.jpg"
+    },
+    {
+      "wordSwedish": "verkligen/faktiskt",
+      "wordEnglish": "indeed",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472385.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/26556_96square.jpg"
+    },
+    {
+      "wordSwedish": "i stället",
+      "wordEnglish": "instead",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472386.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25884_96square.jpg"
+    },
+    {
+      "wordSwedish": "likaså",
+      "wordEnglish": "likewise",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472387.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/24094_96square.jpg"
+    },
+    {
+      "wordSwedish": "dessutom",
+      "wordEnglish": "moreover",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472388.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27139_96square.jpg"
+    },
+    {
+      "wordSwedish": "under tiden",
+      "wordEnglish": "meanwhile",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472389.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22156_96square.jpg"
+    },
+    {
+      "wordSwedish": "så småningom",
+      "wordEnglish": "eventually",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472390.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27134_96square.jpg"
+    },
+    {
+      "wordSwedish": "dessutom",
+      "wordEnglish": "besides",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472391.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25921_96square.jpg"
+    },
+    {
+      "wordSwedish": "säkert/säkerligen",
+      "wordEnglish": "certainly",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472392.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8750_96square.jpg"
+    },
+    {
+      "wordSwedish": "därtill",
+      "wordEnglish": "in addition",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472393.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27137_96square.jpg"
+    },
+    {
+      "wordSwedish": "sedan",
+      "wordEnglish": "then",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472394.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27141_96square.jpg"
+    }
+  ],
+  "nouns": [
+    {
+      "wordSwedish": "vecka",
+      "wordEnglish": "week",
+      "sentenceSwedish": "Det är sju dagar i en vecka.",
+      "sentenceEnglish": "There are seven days in a week.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351481.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351483.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22019_96square.jpg"
+    },
+    {
+      "wordSwedish": "år",
+      "wordEnglish": "year",
+      "sentenceSwedish": "kalenderår",
+      "sentenceEnglish": "one calendar year",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171584.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351487.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22020_96square.jpg"
+    },
+    {
+      "wordSwedish": "sekund",
+      "wordEnglish": "second",
+      "sentenceSwedish": "Det är femtioåtta sekunder kvar på stoppuret.",
+      "sentenceEnglish": "There are fifty eight seconds left on the\n                          stopwatch.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351492.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351495.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22047_96square.jpg"
+    },
+    {
+      "wordSwedish": "timme",
+      "wordEnglish": "hour",
+      "sentenceSwedish": "Det går sextio minuter på en timme.",
+      "sentenceEnglish": "There are 60 minutes in an hour.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170253.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609238.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22041_96square.jpg"
+    },
+    {
+      "wordSwedish": "minut",
+      "wordEnglish": "minute",
+      "sentenceSwedish": "Det är sextio sekunder i en minut.",
+      "sentenceEnglish": "There are sixty seconds in a minute.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170239.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351493.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22043_96square.jpg"
+    },
+    {
+      "wordSwedish": "vatten",
+      "wordEnglish": "water",
+      "sentenceSwedish": "brygga över vatten",
+      "sentenceEnglish": "bridge over water",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170254.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/912548.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9628_96square.jpg"
+    },
+    {
+      "wordSwedish": "kaffe",
+      "wordEnglish": "coffee",
+      "sentenceSwedish": "Kaffekannan är fylld med kaffe.",
+      "sentenceEnglish": "The coffee pot is full of coffee.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170255.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609280.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22103_96square.jpg"
+    },
+    {
+      "wordSwedish": "öl",
+      "wordEnglish": "beer",
+      "sentenceSwedish": "Bartendern häller upp en fatöl.",
+      "sentenceEnglish": "The bartender is pouring a draft beer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724470.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975678.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8700_96square.jpg"
+    },
+    {
+      "wordSwedish": "is",
+      "wordEnglish": "ice",
+      "sentenceSwedish": "smältande iskuber",
+      "sentenceEnglish": "melting ice cubes",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1148158.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/521852.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/28798_96square.jpg"
+    },
+    {
+      "wordSwedish": "té",
+      "wordEnglish": "tea",
+      "sentenceSwedish": "tépåse",
+      "sentenceEnglish": "tea bag",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170264.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283654.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22101_96square.jpg"
+    },
+    {
+      "wordSwedish": "mamma",
+      "wordEnglish": "mother",
+      "sentenceSwedish": "Barnen pussar sin mamma.",
+      "sentenceEnglish": "The children are kissing their mother.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348368.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348370.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/24755_96square.jpg"
+    },
+    {
+      "wordSwedish": "pappa",
+      "wordEnglish": "father",
+      "sentenceSwedish": "Den uttråkade pappan är redo att gå hem.",
+      "sentenceEnglish": "The bored father is ready to go home.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348075.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/282984.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15669_96square.jpg"
+    },
+    {
+      "wordSwedish": "make",
+      "wordEnglish": "husband",
+      "sentenceSwedish": "make och maka",
+      "sentenceEnglish": "husband and wife",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348548.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609552.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17407_96square.jpg"
+    },
+    {
+      "wordSwedish": "fru",
+      "wordEnglish": "wife",
+      "sentenceSwedish": "hustru och moder",
+      "sentenceEnglish": "wife and mother",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/914562.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609555.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17406_96square.jpg"
+    },
+    {
+      "wordSwedish": "son",
+      "wordEnglish": "son",
+      "sentenceSwedish": "Fadern tittar på sin son.",
+      "sentenceEnglish": "The father is looking at his son.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348560.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348564.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9247_96square.jpg"
+    },
+    {
+      "wordSwedish": "dotter",
+      "wordEnglish": "daughter",
+      "sentenceSwedish": "Det här är min dotter.",
+      "sentenceEnglish": "This is my daughter.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348372.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472494.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8687_96square.jpg"
+    },
+    {
+      "wordSwedish": "fisk",
+      "wordEnglish": "fish",
+      "sentenceSwedish": "Kvällens huvudrätt är grillad fisk.",
+      "sentenceEnglish": "Tonight's main course is grilled fish.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283733.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975309.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15728_96square.jpg"
+    },
+    {
+      "wordSwedish": "biff",
+      "wordEnglish": "beef",
+      "sentenceSwedish": "biff till huvudrätt",
+      "sentenceEnglish": "beef for the main course",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170160.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351379.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8664_96square.jpg"
+    },
+    {
+      "wordSwedish": "fläsk",
+      "wordEnglish": "pork",
+      "sentenceSwedish": "Fläsk är köttet från en gris.",
+      "sentenceEnglish": "Pork is the meat from a pig.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170161.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975318.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8081_96square.jpg"
+    },
+    {
+      "wordSwedish": "kyckling",
+      "wordEnglish": "chicken",
+      "sentenceSwedish": "kycklingsoppa",
+      "sentenceEnglish": "chicken soup",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348977.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351390.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10126_96square.jpg"
+    },
+    {
+      "wordSwedish": "kök",
+      "wordEnglish": "kitchen",
+      "sentenceSwedish": "Jag städade köket.",
+      "sentenceEnglish": "I cleaned up the kitchen.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348944.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283881.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8116_96square.jpg"
+    },
+    {
+      "wordSwedish": "badrum",
+      "wordEnglish": "bathroom",
+      "sentenceSwedish": "badrum med dush och badkar",
+      "sentenceEnglish": "bathroom with a shower and a bathtub",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170490.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283883.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8408_96square.jpg"
+    },
+    {
+      "wordSwedish": "dator",
+      "wordEnglish": "computer",
+      "sentenceSwedish": "Kvinnan använder en dator.",
+      "sentenceEnglish": "The woman is using a computer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348167.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283558.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8299_96square.jpg"
+    },
+    {
+      "wordSwedish": "säng",
+      "wordEnglish": "bed",
+      "sentenceSwedish": "Kvinnan vilar i sängen.",
+      "sentenceEnglish": "The woman is resting in the bed.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348827.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283570.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20753_96square.jpg"
+    },
+    {
+      "wordSwedish": "soffa",
+      "wordEnglish": "sofa",
+      "sentenceSwedish": "Den här soffan är väldigt bekväm.",
+      "sentenceEnglish": "This sofa is very comfortable.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170541.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609492.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9183_96square.jpg"
+    },
+    {
+      "wordSwedish": "sjuksköterska",
+      "wordEnglish": "nurse",
+      "sentenceSwedish": "sjuksköterska",
+      "sentenceEnglish": "female nurse",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512076.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170578.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21768_96square.jpg"
+    },
+    {
+      "wordSwedish": "hotell",
+      "wordEnglish": "hotel",
+      "sentenceSwedish": "resortshotell",
+      "sentenceEnglish": "resort hotel",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348828.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348831.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21262_96square.jpg"
+    },
+    {
+      "wordSwedish": "kvinna",
+      "wordEnglish": "woman",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724339.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21824_96square.jpg"
+    },
+    {
+      "wordSwedish": "man",
+      "wordEnglish": "man",
+      "sentenceSwedish": "leende man",
+      "sentenceEnglish": "smiling man",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724403.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351569.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21823_96square.jpg"
+    },
+    {
+      "wordSwedish": "flickvän",
+      "wordEnglish": "girlfriend",
+      "sentenceSwedish": "Mannen ska just ge rosor till sin flickvän.",
+      "sentenceEnglish": "The man is about to give roses to his\n                          girlfriend.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170853.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351535.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8341_96square.jpg"
+    },
+    {
+      "wordSwedish": "pojkvän",
+      "wordEnglish": "boyfriend",
+      "sentenceSwedish": "snygg pojkvän",
+      "sentenceEnglish": "good looking boyfriend",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351574.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351577.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9399_96square.jpg"
+    },
+    {
+      "wordSwedish": "barn",
+      "wordEnglish": "child",
+      "sentenceSwedish": "Barnet räcker upp handen.",
+      "sentenceEnglish": "The child is raising his hand.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472491.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283360.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21821_96square.jpg"
+    },
+    {
+      "wordSwedish": "läkare",
+      "wordEnglish": "doctor",
+      "sentenceSwedish": "kvinnlig läkare",
+      "sentenceEnglish": "female medical doctor",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283716.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512077.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21803_96square.jpg"
+    },
+    {
+      "wordSwedish": "lärare",
+      "wordEnglish": "teacher",
+      "sentenceSwedish": "lärare i ett klassrum",
+      "sentenceEnglish": "teacher in a classroom",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348366.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283540.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9229_96square.jpg"
+    },
+    {
+      "wordSwedish": "idag",
+      "wordEnglish": "today",
+      "sentenceSwedish": "idag klockan kvart över sex.",
+      "sentenceEnglish": "today at 6:15",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171319.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351471.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22014_96square.jpg"
+    },
+    {
+      "wordSwedish": "imorgon",
+      "wordEnglish": "tomorrow",
+      "sentenceSwedish": "imorgon klockan tio över tio.",
+      "sentenceEnglish": "tomorrow at 10:10",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/881539.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351475.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22015_96square.jpg"
+    },
+    {
+      "wordSwedish": "igår",
+      "wordEnglish": "yesterday",
+      "sentenceSwedish": "Jag tog ledigt igår.",
+      "sentenceEnglish": "I took a day off yesterday.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171329.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351479.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22016_96square.jpg"
+    },
+    {
+      "wordSwedish": "huvud",
+      "wordEnglish": "head",
+      "sentenceSwedish": "Ta på dig hjälmen för att skydda huvudet.",
+      "sentenceEnglish": "Wear a helmet to protect your head.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/169808.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/511735.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21800_96square.jpg"
+    },
+    {
+      "wordSwedish": "regn",
+      "wordEnglish": "rain",
+      "sentenceSwedish": "fallande regn",
+      "sentenceEnglish": "falling rain",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171516.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283055.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8559_96square.jpg"
+    },
+    {
+      "wordSwedish": "snö",
+      "wordEnglish": "snow",
+      "sentenceSwedish": "snö på marken",
+      "sentenceEnglish": "snow on the ground",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171497.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283060.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/23638_96square.jpg"
+    },
+    {
+      "wordSwedish": "moln",
+      "wordEnglish": "cloud",
+      "sentenceSwedish": "fluffigt moln",
+      "sentenceEnglish": "fluffy cloud",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171481.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351604.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8230_96square.jpg"
+    },
+    {
+      "wordSwedish": "sko",
+      "wordEnglish": "shoe",
+      "sentenceSwedish": "svart- och ljusbruna klätterskor",
+      "sentenceEnglish": "black and tan climbing shoes",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348993.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283462.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8111_96square.jpg"
+    },
+    {
+      "wordSwedish": "skjorta",
+      "wordEnglish": "shirt",
+      "sentenceSwedish": "sidenskjorta",
+      "sentenceEnglish": "silk shirt",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/511815.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/511819.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8952_96square.jpg"
+    },
+    {
+      "wordSwedish": "strumpa",
+      "wordEnglish": "sock",
+      "sentenceSwedish": "strumpor och skor",
+      "sentenceEnglish": "socks and shoes",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1035751.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283460.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9019_96square.jpg"
+    },
+    {
+      "wordSwedish": "byxor",
+      "wordEnglish": "pants",
+      "sentenceSwedish": "Jag tog av mig byxorna",
+      "sentenceEnglish": "I took off my pants.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170008.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283481.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8040_96square.jpg"
+    },
+    {
+      "wordSwedish": "vän",
+      "wordEnglish": "friend",
+      "sentenceSwedish": "Pojken kan höra sin vän.",
+      "sentenceEnglish": "The boy can hear his friend.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724736.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351584.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/19978_96square.jpg"
+    },
+    {
+      "wordSwedish": "vuxen",
+      "wordEnglish": "adult",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724762.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21818_96square.jpg"
+    },
+    {
+      "wordSwedish": "flicka",
+      "wordEnglish": "girl",
+      "sentenceSwedish": "Flickan gör läxor.",
+      "sentenceEnglish": "The girl is doing homework.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724166.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975319.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21822_96square.jpg"
+    },
+    {
+      "wordSwedish": "TV",
+      "wordEnglish": "TV",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/569402.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17324_96square.jpg"
+    },
+    {
+      "wordSwedish": "pojke",
+      "wordEnglish": "boy",
+      "sentenceSwedish": "Killen är längre än flickan.",
+      "sentenceEnglish": "The boy is taller than the girl.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724503.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609568.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21820_96square.jpg"
+    }
+  ],
+  "core": [
+    {
+      "wordSwedish": "vecka",
+      "wordEnglish": "week",
+      "sentenceSwedish": "Det är sju dagar i en vecka.",
+      "sentenceEnglish": "There are seven days in a week.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351481.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351483.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22019_96square.jpg"
+    },
+    {
+      "wordSwedish": "år",
+      "wordEnglish": "year",
+      "sentenceSwedish": "kalenderår",
+      "sentenceEnglish": "one calendar year",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171584.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351487.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22020_96square.jpg"
+    },
+    {
+      "wordSwedish": "idag",
+      "wordEnglish": "today",
+      "sentenceSwedish": "idag klockan kvart över sex.",
+      "sentenceEnglish": "today at 6:15",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171319.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351471.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22014_96square.jpg"
+    },
+    {
+      "wordSwedish": "imorgon",
+      "wordEnglish": "tomorrow",
+      "sentenceSwedish": "imorgon klockan tio över tio.",
+      "sentenceEnglish": "tomorrow at 10:10",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/881539.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351475.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22015_96square.jpg"
+    },
+    {
+      "wordSwedish": "igår",
+      "wordEnglish": "yesterday",
+      "sentenceSwedish": "Jag tog ledigt igår.",
+      "sentenceEnglish": "I took a day off yesterday.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171329.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351479.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22016_96square.jpg"
+    },
+    {
+      "wordSwedish": "Kalender",
+      "wordEnglish": "calendar",
+      "sentenceSwedish": "ett kalenderår",
+      "sentenceEnglish": "one calendar year",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/618284.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351490.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21796_96square.jpg"
+    },
+    {
+      "wordSwedish": "sekund",
+      "wordEnglish": "second",
+      "sentenceSwedish": "Det är femtioåtta sekunder kvar på stoppuret.",
+      "sentenceEnglish": "There are fifty eight seconds left on the stopwatch.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351492.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351495.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22047_96square.jpg"
+    },
+    {
+      "wordSwedish": "timme",
+      "wordEnglish": "hour",
+      "sentenceSwedish": "Det går sextio minuter på en timme.",
+      "sentenceEnglish": "There are 60 minutes in an hour.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170253.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609238.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22041_96square.jpg"
+    },
+    {
+      "wordSwedish": "minut",
+      "wordEnglish": "minute",
+      "sentenceSwedish": "Det är sextio sekunder i en minut.",
+      "sentenceEnglish": "There are sixty seconds in a minute.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170239.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351493.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22043_96square.jpg"
+    },
+    {
+      "wordSwedish": "klockan ...",
+      "wordEnglish": "o'clock",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170250.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22044_96square.jpg"
+    },
+    {
+      "wordSwedish": "klocka",
+      "wordEnglish": "clock",
+      "sentenceSwedish": "Väggklockan hänger på väggen.",
+      "sentenceEnglish": "The wall clock is hanging on the wall.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/903053.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351502.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20235_96square.jpg"
+    },
+    {
+      "wordSwedish": "en timme",
+      "wordEnglish": "one hour",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351205.mp3",
+      "image": "/static/images/placeholders/img_placeholder_96square.png"
+    },
+    {
+      "wordSwedish": "kan",
+      "wordEnglish": "can",
+      "sentenceSwedish": "Han kan köra men inte så bra.",
+      "sentenceEnglish": "He can drive, but not very well.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170802.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351407.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9008_96square.jpg"
+    },
+    {
+      "wordSwedish": "använda",
+      "wordEnglish": "use",
+      "sentenceSwedish": "Programmeraren använder datorn.",
+      "sentenceEnglish": "The programmer is using the computer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348168.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348169.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17270_96square.jpg"
+    },
+    {
+      "wordSwedish": "göra",
+      "wordEnglish": "do",
+      "sentenceSwedish": "Kvinnan gör hushållsarbete.",
+      "sentenceEnglish": "The woman does housework.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348118.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348120.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9432_96square.jpg"
+    },
+    {
+      "wordSwedish": "gå",
+      "wordEnglish": "go",
+      "sentenceSwedish": "gå rakt fram",
+      "sentenceEnglish": "go straight ahead",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512529.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975364.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9499_96square.jpg"
+    },
+    {
+      "wordSwedish": "komma",
+      "wordEnglish": "come",
+      "sentenceSwedish": "Flickan kom emot filmkameran.",
+      "sentenceEnglish": "The girl came towards the video camera.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348304.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348306.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9189_96square.jpg"
+    },
+    {
+      "wordSwedish": "skratta",
+      "wordEnglish": "laugh",
+      "sentenceSwedish": "Paret skrattade åt bilden.",
+      "sentenceEnglish": "The couple laughed at the picture.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351409.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/349095.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9527_96square.jpg"
+    },
+    {
+      "wordSwedish": "göra",
+      "wordEnglish": "make",
+      "sentenceSwedish": "Kocken gjorde apelsinjuice.",
+      "sentenceEnglish": "The chef made orange juice.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351412.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348128.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8742_96square.jpg"
+    },
+    {
+      "wordSwedish": "se",
+      "wordEnglish": "see",
+      "sentenceSwedish": "Turisten såg solnedgången.",
+      "sentenceEnglish": "The tourists saw the sunset.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351416.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/349048.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17269_96square.jpg"
+    },
+    {
+      "wordSwedish": "långt",
+      "wordEnglish": "far",
+      "sentenceSwedish": "Kvinnan kollar på någonting långt borta.",
+      "sentenceEnglish": "The woman is looking at something far away.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452388.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351434.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8065_96square.jpg"
+    },
+    {
+      "wordSwedish": "liten",
+      "wordEnglish": "small",
+      "sentenceSwedish": "väldigt liten",
+      "sentenceEnglish": "very small",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609104.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351441.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21795_96square.jpg"
+    },
+    {
+      "wordSwedish": "bra",
+      "wordEnglish": "good",
+      "sentenceSwedish": "Grönsaker är bra för dig.",
+      "sentenceEnglish": "Vegetables are good for you.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/881491.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351444.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17033_96square.jpg"
+    },
+    {
+      "wordSwedish": "vacker",
+      "wordEnglish": "beautiful",
+      "sentenceSwedish": "vacker skådespelerska",
+      "sentenceEnglish": "beautiful actress",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/169985.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351450.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/25829_96square.jpg"
+    },
+    {
+      "wordSwedish": "ful",
+      "wordEnglish": "ugly",
+      "sentenceSwedish": "fult ansikte",
+      "sentenceEnglish": "ugly face",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351452.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351456.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8197_96square.jpg"
+    },
+    {
+      "wordSwedish": "svår",
+      "wordEnglish": "difficult",
+      "sentenceSwedish": "Engelska är svårt.",
+      "sentenceEnglish": "English is difficult.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348271.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351460.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17227_96square.jpg"
+    },
+    {
+      "wordSwedish": "lätt",
+      "wordEnglish": "easy",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171170.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8717_96square.jpg"
+    },
+    {
+      "wordSwedish": "dålig",
+      "wordEnglish": "bad",
+      "sentenceSwedish": "Mannen är ond.",
+      "sentenceEnglish": "The man is bad.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351463.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351467.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8487_96square.jpg"
+    },
+    {
+      "wordSwedish": "nära",
+      "wordEnglish": "near",
+      "sentenceSwedish": "Jag bor nära universitetet.",
+      "sentenceEnglish": "I live near the university.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1555663.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351470.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/18750_96square.jpg"
+    },
+    {
+      "wordSwedish": "Trevligt att träffas.",
+      "wordEnglish": "Nice to meet you.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452371.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21965_96square.jpg"
+    },
+    {
+      "wordSwedish": "Hej.",
+      "wordEnglish": "Hello.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170828.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21643_96square.jpg"
+    },
+    {
+      "wordSwedish": "God morgon.",
+      "wordEnglish": "Good morning.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170837.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17247_96square.jpg"
+    },
+    {
+      "wordSwedish": "Goddag.",
+      "wordEnglish": "Good afternoon.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/614479.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21648_96square.jpg"
+    },
+    {
+      "wordSwedish": "God kväll.",
+      "wordEnglish": "Good evening.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170839.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21963_96square.jpg"
+    },
+    {
+      "wordSwedish": "Godnatt.",
+      "wordEnglish": "Good night.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/614480.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21964_96square.jpg"
+    },
+    {
+      "wordSwedish": "Hur mår du?",
+      "wordEnglish": "How are you?",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/615931.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10083_96square.jpg"
+    },
+    {
+      "wordSwedish": "Tack.",
+      "wordEnglish": "Thank you!",
+      "sentenceSwedish": "tack, men",
+      "sentenceEnglish": "thank you, but",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452560.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1614154.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14992_96square.jpg"
+    },
+    {
+      "wordSwedish": "Nej.",
+      "wordEnglish": "No.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452556.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21966_96square.jpg"
+    },
+    {
+      "wordSwedish": "Utsökt!",
+      "wordEnglish": "Delicious!",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/610168.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10146_96square.jpg"
+    },
+    {
+      "wordSwedish": "Jag är...(namn).",
+      "wordEnglish": "I'm...(name).",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/452378.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9898_96square.jpg"
+    },
+    {
+      "wordSwedish": "Hej då!",
+      "wordEnglish": "Goodbye.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170830.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21968_96square.jpg"
+    },
+    {
+      "wordSwedish": "Ja.",
+      "wordEnglish": "Yes.",
+      "sentenceSwedish": "",
+      "sentenceEnglish": "",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/614546.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14816_96square.jpg"
+    },
+    {
+      "wordSwedish": "måndag",
+      "wordEnglish": "Monday",
+      "sentenceSwedish": "Måndag, tisdag, onsdag, torsdag, fredag är vardagar.",
+      "sentenceEnglish": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+      "wordSound": "http://cdn.innovativelanguage.com/wordlists/audio/170227.mp3",
+      "sentenceSound": "http://cdn.innovativelanguage.com/wordlists/audio/351358.mp3",
+      "image": "http://cdn.innovativelanguage.com/wordlists/media/thumb/22038_96square.jpg"
+    },
+    {
+      "wordSwedish": "tisdag",
+      "wordEnglish": "Tuesday",
+      "sentenceSwedish": "Tisdagen den första januari.",
+      "sentenceEnglish": "Tuesday, January 1st",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170229.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351360.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22039_96square.jpg"
+    },
+    {
+      "wordSwedish": "onsdag",
+      "wordEnglish": "Wednesday",
+      "sentenceSwedish": "Onsdagen den artonde.",
+      "sentenceEnglish": "Wednesday the 18th",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170228.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351362.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22037_96square.jpg"
+    },
+    {
+      "wordSwedish": "torsdag",
+      "wordEnglish": "Thursday",
+      "sentenceSwedish": "Imorgon är det onsdag och i övermorgon är det torsdag.",
+      "sentenceEnglish": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170232.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351363.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22033_96square.jpg"
+    },
+    {
+      "wordSwedish": "fredag",
+      "wordEnglish": "Friday",
+      "sentenceSwedish": "Skriv ner planerna för fredag i kalendern.",
+      "sentenceEnglish": "Write the plans for Friday on the calendar.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170230.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975355.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22035_96square.jpg"
+    },
+    {
+      "wordSwedish": "lördag",
+      "wordEnglish": "Saturday",
+      "sentenceSwedish": "inga planer för lördag",
+      "sentenceEnglish": "no plans for Saturday",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170231.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351368.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22036_96square.jpg"
+    },
+    {
+      "wordSwedish": "söndag",
+      "wordEnglish": "Sunday",
+      "sentenceSwedish": "Söndagen den sjuttonde.",
+      "sentenceEnglish": "Sunday the seventeenth",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170233.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351371.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22034_96square.jpg"
+    },
+    {
+      "wordSwedish": "maj",
+      "wordEnglish": "May",
+      "sentenceSwedish": "majblommor",
+      "sentenceEnglish": "May flowers",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351311.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609118.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22029_96square.jpg"
+    },
+    {
+      "wordSwedish": "januari",
+      "wordEnglish": "January",
+      "sentenceSwedish": "Första januari infaller på en tisdag i år.",
+      "sentenceEnglish": "January 1st falls on a Tuesday this year.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170220.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975468.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22025_96square.jpg"
+    },
+    {
+      "wordSwedish": "februari",
+      "wordEnglish": "February",
+      "sentenceSwedish": "Skottårsdagen är den tjugonionde februari.",
+      "sentenceEnglish": "Leap year day is February 29th.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351324.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351327.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22024_96square.jpg"
+    },
+    {
+      "wordSwedish": "mars",
+      "wordEnglish": "March",
+      "sentenceSwedish": "Mars markerar starten på vår i det norra halvklotet och höst i det södra halvklotet.",
+      "sentenceEnglish": "March marks the start of Spring in the northen hemisphere and fall in the southern hemisphere.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351315.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975606.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22028_96square.jpg"
+    },
+    {
+      "wordSwedish": "april",
+      "wordEnglish": "April",
+      "sentenceSwedish": "Det är april nu så nästa månad är maj.",
+      "sentenceEnglish": "It is now April so next month will be May.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351328.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351312.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22021_96square.jpg"
+    },
+    {
+      "wordSwedish": "juni",
+      "wordEnglish": "June",
+      "sentenceSwedish": "Vi ska gifta oss i juni.",
+      "sentenceEnglish": "We are getting married in June.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351331.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351334.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22027_96square.jpg"
+    },
+    {
+      "wordSwedish": "juli",
+      "wordEnglish": "July",
+      "sentenceSwedish": "juli månad",
+      "sentenceEnglish": "month of July",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351335.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351338.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22026_96square.jpg"
+    },
+    {
+      "wordSwedish": "augusti",
+      "wordEnglish": "August",
+      "sentenceSwedish": "Skolan är stängd i augusti.",
+      "sentenceEnglish": "The school is closed in August.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351339.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351342.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22022_96square.jpg"
+    },
+    {
+      "wordSwedish": "september",
+      "wordEnglish": "September",
+      "sentenceSwedish": "Idag är det lördagen den tionde september.",
+      "sentenceEnglish": "Today is Saturday, September 10th.",
+      "wordSound": "http://cdn.innovativelanguage.com/wordlists/audio/351343.mp3",
+      "sentenceSound": "http://cdn.innovativelanguage.com/wordlists/audio/609087.mp3",
+      "image": "http://cdn.innovativelanguage.com/wordlists/media/thumb/22032_96square.jpg"
+    },
+    {
+      "wordSwedish": "oktober",
+      "wordEnglish": "October",
+      "sentenceSwedish": "Halloween infaller den trettioförsta oktober.",
+      "sentenceEnglish": "Halloween falls on October 31st.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351347.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975677.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22031_96square.jpg"
+    },
+    {
+      "wordSwedish": "november",
+      "wordEnglish": "November",
+      "sentenceSwedish": "Thanksgiving, torsdagen tjugofjärde november.",
+      "sentenceEnglish": "Thanksgiving, Thursday November 24th",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351350.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351351.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22030_96square.jpg"
+    },
+    {
+      "wordSwedish": "december",
+      "wordEnglish": "December",
+      "sentenceSwedish": "Den trettioförsta december är det nyårsafton.",
+      "sentenceEnglish": "December 31st is New Year's Eve.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351352.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351354.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8754_96square.jpg"
+    },
+    {
+      "wordSwedish": "noll",
+      "wordEnglish": "zero",
+      "sentenceSwedish": "falla under noll grader Celsius",
+      "sentenceEnglish": "fall below zero degrees Celsius",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/169796.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759704.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10304_96square.jpg"
+    },
+    {
+      "wordSwedish": "ett",
+      "wordEnglish": "one",
+      "sentenceSwedish": "Jag surfade på nätet en timme.",
+      "sentenceEnglish": "I surfed the Internet for an hour.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170806.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759712.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8873_96square.jpg"
+    },
+    {
+      "wordSwedish": "två",
+      "wordEnglish": "two",
+      "sentenceSwedish": "två biljetter",
+      "sentenceEnglish": "two tickets",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351208.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759729.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9077_96square.jpg"
+    },
+    {
+      "wordSwedish": "tre",
+      "wordEnglish": "three",
+      "sentenceSwedish": "tre alternativ",
+      "sentenceEnglish": "three options",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170808.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759728.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9718_96square.jpg"
+    },
+    {
+      "wordSwedish": "fyra",
+      "wordEnglish": "four",
+      "sentenceSwedish": "fyra grader",
+      "sentenceEnglish": "four degrees",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170820.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351220.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9466_96square.jpg"
+    },
+    {
+      "wordSwedish": "fem",
+      "wordEnglish": "five",
+      "sentenceSwedish": "Väckarklockan är ställd på fem på morgonen.",
+      "sentenceEnglish": "The alarm clock is set for five a.m.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170812.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759731.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8167_96square.jpg"
+    },
+    {
+      "wordSwedish": "sex",
+      "wordEnglish": "six",
+      "sentenceSwedish": "sex grader",
+      "sentenceEnglish": "six degrees",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170814.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351228.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9140_96square.jpg"
+    },
+    {
+      "wordSwedish": "sju",
+      "wordEnglish": "seven",
+      "sentenceSwedish": "sju dagar i veckan",
+      "sentenceEnglish": "seven days a week",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170807.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351230.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9424_96square.jpg"
+    },
+    {
+      "wordSwedish": "åtta",
+      "wordEnglish": "eight",
+      "sentenceSwedish": "åtta grader",
+      "sentenceEnglish": "eight degrees",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170813.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351238.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9473_96square.jpg"
+    },
+    {
+      "wordSwedish": "nio",
+      "wordEnglish": "nine",
+      "sentenceSwedish": "nio grader",
+      "sentenceEnglish": "nine degrees",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170810.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351243.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8833_96square.jpg"
+    },
+    {
+      "wordSwedish": "tio",
+      "wordEnglish": "ten",
+      "sentenceSwedish": "tio bitar",
+      "sentenceEnglish": "ten pieces",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170817.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1759725.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9088_96square.jpg"
+    },
+    {
+      "wordSwedish": "kaffe",
+      "wordEnglish": "coffee",
+      "sentenceSwedish": "Kaffekannan är fylld med kaffe.",
+      "sentenceEnglish": "The coffee pot is full of coffee.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170255.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609280.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22103_96square.jpg"
+    },
+    {
+      "wordSwedish": "öl",
+      "wordEnglish": "beer",
+      "sentenceSwedish": "Bartendern häller upp en fatöl.",
+      "sentenceEnglish": "The bartender is pouring a draft beer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/724470.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975678.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8700_96square.jpg"
+    },
+    {
+      "wordSwedish": "té",
+      "wordEnglish": "tea",
+      "sentenceSwedish": "tépåse",
+      "sentenceEnglish": "tea bag",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170264.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283654.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22101_96square.jpg"
+    },
+    {
+      "wordSwedish": "vin",
+      "wordEnglish": "wine",
+      "sentenceSwedish": "ett glas vin",
+      "sentenceEnglish": "glass of wine",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170266.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283660.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22104_96square.jpg"
+    },
+    {
+      "wordSwedish": "vatten",
+      "wordEnglish": "water",
+      "sentenceSwedish": "Skulle jag kunna få lite vatten tack?",
+      "sentenceEnglish": "Can I have some water, please?",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283662.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283667.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9628_96square.jpg"
+    },
+    {
+      "wordSwedish": "biff",
+      "wordEnglish": "beef",
+      "sentenceSwedish": "biff till huvudrätt",
+      "sentenceEnglish": "beef for the main course",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170160.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351379.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8664_96square.jpg"
+    },
+    {
+      "wordSwedish": "fläsk",
+      "wordEnglish": "pork",
+      "sentenceSwedish": "Fläsk är köttet från en gris.",
+      "sentenceEnglish": "Pork is the meat from a pig.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170161.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975318.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8081_96square.jpg"
+    },
+    {
+      "wordSwedish": "kyckling",
+      "wordEnglish": "chicken",
+      "sentenceSwedish": "kycklingsoppa",
+      "sentenceEnglish": "chicken soup",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348977.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351390.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10126_96square.jpg"
+    },
+    {
+      "wordSwedish": "lamm",
+      "wordEnglish": "lamb",
+      "sentenceSwedish": "Lamm är extremt utsökt.",
+      "sentenceEnglish": "Lamb is extremely delicious.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351393.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351396.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15190_96square.jpg"
+    },
+    {
+      "wordSwedish": "fisk",
+      "wordEnglish": "fish",
+      "sentenceSwedish": "Kvällens huvudrätt är grillad fisk.",
+      "sentenceEnglish": "Tonight's main course is grilled fish.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283733.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975309.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15728_96square.jpg"
+    },
+    {
+      "wordSwedish": "fot",
+      "wordEnglish": "foot",
+      "sentenceSwedish": "vänster fot",
+      "sentenceEnglish": "left foot",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283347.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283350.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8374_96square.jpg"
+    },
+    {
+      "wordSwedish": "ben",
+      "wordEnglish": "leg",
+      "sentenceSwedish": "långa ben",
+      "sentenceEnglish": "long legs",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170706.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283352.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8542_96square.jpg"
+    },
+    {
+      "wordSwedish": "huvud",
+      "wordEnglish": "head",
+      "sentenceSwedish": "Ta på dig hjälmen för att skydda huvudet.",
+      "sentenceEnglish": "Wear a helmet to protect your head.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/169808.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/511735.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21800_96square.jpg"
+    },
+    {
+      "wordSwedish": "arm",
+      "wordEnglish": "arm",
+      "sentenceSwedish": "två armar",
+      "sentenceEnglish": "two arms",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348705.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283357.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9562_96square.jpg"
+    },
+    {
+      "wordSwedish": "hand",
+      "wordEnglish": "hand",
+      "sentenceSwedish": "höger hand",
+      "sentenceEnglish": "right hand",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171398.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283359.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8317_96square.jpg"
+    },
+    {
+      "wordSwedish": "finger",
+      "wordEnglish": "finger",
+      "sentenceSwedish": "Mitt finger blöder.",
+      "sentenceEnglish": "My finger's bleeding.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171399.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472422.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21797_96square.jpg"
+    },
+    {
+      "wordSwedish": "kropp",
+      "wordEnglish": "body",
+      "sentenceSwedish": "människokropp",
+      "sentenceEnglish": "human body",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609376.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/609379.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21798_96square.jpg"
+    },
+    {
+      "wordSwedish": "mage",
+      "wordEnglish": "stomach",
+      "sentenceSwedish": "Jag har magont.",
+      "sentenceEnglish": "I have a stomach ache.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283363.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283366.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8438_96square.jpg"
+    },
+    {
+      "wordSwedish": "rygg",
+      "wordEnglish": "back",
+      "sentenceSwedish": "Min rygg gör ont.",
+      "sentenceEnglish": "My back hurts.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283370.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/1472419.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21801_96square.jpg"
+    },
+    {
+      "wordSwedish": "bröst",
+      "wordEnglish": "chest",
+      "sentenceSwedish": "Jag har ont i bröstet.",
+      "sentenceEnglish": "I have chest pain.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/171413.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283369.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21799_96square.jpg"
+    },
+    {
+      "wordSwedish": "sjuksköterska",
+      "wordEnglish": "nurse",
+      "sentenceSwedish": "sjuksköterska",
+      "sentenceEnglish": "female nurse",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/512076.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170578.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21768_96square.jpg"
+    },
+    {
+      "wordSwedish": "anställd",
+      "wordEnglish": "employee",
+      "sentenceSwedish": "kvinnlig anställd",
+      "sentenceEnglish": "female employee",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348871.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283709.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15526_96square.jpg"
+    },
+    {
+      "wordSwedish": "poliskonstapel",
+      "wordEnglish": "police officer",
+      "sentenceSwedish": "poliskonstapel i uniform",
+      "sentenceEnglish": "police officer in uniform",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170982.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351400.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22290_96square.jpg"
+    },
+    {
+      "wordSwedish": "kock",
+      "wordEnglish": "cook",
+      "sentenceSwedish": "Hon är kock på en fyrstjärnig restaurang.",
+      "sentenceEnglish": "She is a cook at a four-star restaurant.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348956.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/985815.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21802_96square.jpg"
+    },
+    {
+      "wordSwedish": "ingenjör",
+      "wordEnglish": "engineer",
+      "sentenceSwedish": "Jag är ingenjör.",
+      "sentenceEnglish": "I am an engineer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170995.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/615926.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/19050_96square.jpg"
+    },
+    {
+      "wordSwedish": "doktor",
+      "wordEnglish": "doctor",
+      "sentenceSwedish": "Doktorn undersöker foten.",
+      "sentenceEnglish": "The doctor is examining the foot.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/170992.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283717.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21803_96square.jpg"
+    },
+    {
+      "wordSwedish": "föreståndare",
+      "wordEnglish": "manager",
+      "sentenceSwedish": "Fabrikschefen ger instruktioner.",
+      "sentenceEnglish": "The factory manager is giving instructions.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348904.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975328.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17412_96square.jpg"
+    },
+    {
+      "wordSwedish": "lärare",
+      "wordEnglish": "teacher",
+      "sentenceSwedish": "lärare i ett klassrum",
+      "sentenceEnglish": "teacher in a classroom",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/348366.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283540.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9229_96square.jpg"
+    },
+    {
+      "wordSwedish": "programmerare",
+      "wordEnglish": "programmer",
+      "sentenceSwedish": "Jag är programmerare.",
+      "sentenceEnglish": "I am a programmer.",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/351401.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/975729.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21805_96square.jpg"
+    },
+    {
+      "wordSwedish": "försäljare",
+      "wordEnglish": "salesman",
+      "sentenceSwedish": "bilförsäljare",
+      "sentenceEnglish": "car salesman",
+      "wordSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283721.mp3",
+      "sentenceSound": "https://d1pra95f92lrn3.cloudfront.net/audio/283724.mp3",
+      "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9477_96square.jpg"
+    }
+  ]
+}
