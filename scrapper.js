@@ -33,6 +33,7 @@ function scrapWords($) {
       wordSound,
       sentenceSound,
       image,
+      learnedTimes: 0,
     };
   });
 }
@@ -65,5 +66,5 @@ const data = {
   core: scrapWords(cheerio.load(fs.readFileSync("./scrapMaterial/core.html"))),
 };
 
-fs.writeFileSync("./scrappedData.json", JSON.stringify(data, null, 2));
+fs.writeFileSync("./src/scrappedData.json", JSON.stringify(data, null, 2));
 console.log("done");
