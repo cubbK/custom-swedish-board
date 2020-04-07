@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import data from "./scrappedData.json";
 import Card, { CardSection } from "@kiwicom/orbit-components/lib/Card";
 import styled from "styled-components";
@@ -39,12 +39,22 @@ function LearningCard({
     <Container>
       <CardImage src={image} />
       <Card
-        title={wordSwedish}
+        title={
+          <div>
+            {wordSwedish}
+            <AudioButton url={wordSound} autoPlay />
+          </div>
+        }
         description={wordEnglish}
         actions={<Button onClick={onNextClick}>Next</Button>}
       >
         <CardSection
-          title={sentenceSwedish}
+          title={
+            <div>
+              {sentenceSwedish}
+              <AudioButton url={sentenceSound} />
+            </div>
+          }
           description={sentenceEnglish}
         ></CardSection>
       </Card>
@@ -90,7 +100,14 @@ function QuizCard({
   ]);
   return (
     <Container>
-      <Card title={wordSwedish}>
+      <Card
+        title={
+          <div>
+            {wordSwedish}
+            <AudioButton url={wordSound} autoPlay />
+          </div>
+        }
+      >
         <CardSection>{answers}</CardSection>
       </Card>
     </Container>
@@ -123,6 +140,7 @@ function QuizCards({ words, allWords, setPreviousAnswerStatus }) {
   const random3WrongAnswers = getRandomNwords(3, allWordsWithoutShowedOne);
 
   function onSuccess() {
+    console.log(wordsQuiz);
     setWordsQuiz(wordsQuiz.filter((_, i) => i !== 0));
   }
 
@@ -140,6 +158,17 @@ function QuizCards({ words, allWords, setPreviousAnswerStatus }) {
       />
     </>
   );
+}
+
+function AudioButton({ url, autoPlay = false }) {
+  const audio = new Audio(url);
+  useEffect(() => {
+    autoPlay && audio.play();
+  }, [audio, autoPlay]);
+  function onClick() {
+    audio.play();
+  }
+  return <button onClick={onClick}>play</button>;
 }
 
 export function Experience() {
