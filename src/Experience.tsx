@@ -4,7 +4,7 @@ import Card, { CardSection } from "@kiwicom/orbit-components/lib/Card";
 import styled from "styled-components";
 import { Button, Heading, ListChoice } from "@kiwicom/orbit-components/";
 import { shuffle } from "lodash";
-import { useHistory } from "react-router-dom";
+import { useHistory, useParams } from "react-router-dom";
 
 const Container = styled.div`
   display: flex;
@@ -183,13 +183,14 @@ function AudioButton({ url, autoPlay = false }) {
   return <button onClick={onClick}>play</button>;
 }
 
-export function Experience({ numberOfWords }) {
+export function Experience() {
+  const { dificulty } = useParams();
   const words = data;
   const keys = Object.keys(words);
   const [learningMode, setLearningMode] = useState(true);
   const [groupName] = useState(keys[Math.floor(Math.random() * keys.length)]);
   const group = words[groupName];
-  const [selectedWords] = useState(getRandomNwords(numberOfWords, group));
+  const [selectedWords] = useState(getRandomNwords(dificulty, group));
   const [previousAnswerStatus, setPreviousAnswerStatus] = useState("");
 
   return (
@@ -197,7 +198,7 @@ export function Experience({ numberOfWords }) {
       <ExperienceTitle type="display">{groupName}</ExperienceTitle>
       {learningMode ? (
         <LearningCards
-          numberOfWords={numberOfWords}
+          numberOfWords={dificulty}
           words={selectedWords}
           setLearningMode={setLearningMode}
         />

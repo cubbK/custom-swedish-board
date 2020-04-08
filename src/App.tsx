@@ -9,10 +9,7 @@ function App() {
       <Route exact path="/">
         <StartPage />
       </Route>
-      <Route
-        path="/experience"
-        render={() => <Experience numberOfWords={2} />}
-      />
+      <Route path="/experience/:dificulty" render={() => <Experience />} />
       <Route path="/success" render={() => <StartPage success={true} />} />
     </Router>
   );
