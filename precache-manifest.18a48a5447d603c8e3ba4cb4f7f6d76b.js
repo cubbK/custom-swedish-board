@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f88399c46fcbefa0cb8781841ab0264",
+    "revision": "1902ceb458af23df204fbdf26e9f709d",
     "url": "/custom-swedish-board/index.html"
   },
   {
-    "revision": "4b1d31087d2f1ba2dc7f",
+    "revision": "adc6fc3068dd85a20a88",
     "url": "/custom-swedish-board/static/css/main.ef4d000e.chunk.css"
   },
   {
-    "revision": "e5ef4eaa930ef9fe0ded",
-    "url": "/custom-swedish-board/static/js/2.b412ffef.chunk.js"
+    "revision": "a27cdd6a89736d9a2476",
+    "url": "/custom-swedish-board/static/js/2.e5625448.chunk.js"
   },
   {
     "revision": "64bea2e190f27355a76963b8cb94bb7b",
-    "url": "/custom-swedish-board/static/js/2.b412ffef.chunk.js.LICENSE.txt"
+    "url": "/custom-swedish-board/static/js/2.e5625448.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b1d31087d2f1ba2dc7f",
-    "url": "/custom-swedish-board/static/js/main.c32a8077.chunk.js"
+    "revision": "adc6fc3068dd85a20a88",
+    "url": "/custom-swedish-board/static/js/main.bc86ed33.chunk.js"
   },
   {
     "revision": "e9b344113d18c92ea5d1",
