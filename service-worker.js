@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/custom-swedish-board/precache-manifest.6d0aa7f0982e3048f2c489cdf43b51a0.js"
+  "/custom-swedish-board/precache-manifest.00465509702e8d5f5ae771bcb6d1c814.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac090bc1ec2978e2eaedcd7ae2d78624",
+    "revision": "9f88399c46fcbefa0cb8781841ab0264",
     "url": "/custom-swedish-board/index.html"
   },
   {
-    "revision": "9e1d66028d13bd3dcbe9",
+    "revision": "4b1d31087d2f1ba2dc7f",
     "url": "/custom-swedish-board/static/css/main.ef4d000e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/custom-swedish-board/static/js/2.b412ffef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e1d66028d13bd3dcbe9",
-    "url": "/custom-swedish-board/static/js/main.ceb9d0fb.chunk.js"
+    "revision": "4b1d31087d2f1ba2dc7f",
+    "url": "/custom-swedish-board/static/js/main.c32a8077.chunk.js"
   },
   {
     "revision": "e9b344113d18c92ea5d1",

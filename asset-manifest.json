@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/custom-swedish-board/static/css/main.ef4d000e.chunk.css",
-    "main.js": "/custom-swedish-board/static/js/main.ceb9d0fb.chunk.js",
-    "main.js.map": "/custom-swedish-board/static/js/main.ceb9d0fb.chunk.js.map",
+    "main.js": "/custom-swedish-board/static/js/main.c32a8077.chunk.js",
+    "main.js.map": "/custom-swedish-board/static/js/main.c32a8077.chunk.js.map",
     "runtime-main.js": "/custom-swedish-board/static/js/runtime-main.1a70e1b7.js",
     "runtime-main.js.map": "/custom-swedish-board/static/js/runtime-main.1a70e1b7.js.map",
     "static/js/2.b412ffef.chunk.js": "/custom-swedish-board/static/js/2.b412ffef.chunk.js",
     "static/js/2.b412ffef.chunk.js.map": "/custom-swedish-board/static/js/2.b412ffef.chunk.js.map",
     "index.html": "/custom-swedish-board/index.html",
-    "precache-manifest.6d0aa7f0982e3048f2c489cdf43b51a0.js": "/custom-swedish-board/precache-manifest.6d0aa7f0982e3048f2c489cdf43b51a0.js",
+    "precache-manifest.00465509702e8d5f5ae771bcb6d1c814.js": "/custom-swedish-board/precache-manifest.00465509702e8d5f5ae771bcb6d1c814.js",
     "service-worker.js": "/custom-swedish-board/service-worker.js",
     "static/css/main.ef4d000e.chunk.css.map": "/custom-swedish-board/static/css/main.ef4d000e.chunk.css.map",
     "static/js/2.b412ffef.chunk.js.LICENSE.txt": "/custom-swedish-board/static/js/2.b412ffef.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a70e1b7.js",
     "static/js/2.b412ffef.chunk.js",
     "static/css/main.ef4d000e.chunk.css",
-    "static/js/main.ceb9d0fb.chunk.js"
+    "static/js/main.c32a8077.chunk.js"
   ]
 }
