@@ -4,6 +4,7 @@ import Card, { CardSection } from "@kiwicom/orbit-components/lib/Card";
 import styled from "styled-components";
 import { Button, Heading, ListChoice } from "@kiwicom/orbit-components/";
 import { shuffle } from "lodash";
+import { useHistory } from "react-router-dom";
 
 const Container = styled.div`
   display: flex;
@@ -80,20 +81,20 @@ function QuizCard({
       key={wordEnglish}
     />,
     <ListChoice
-      title={wrongAnswers[0].wordEnglish}
-      key={wrongAnswers[0].wordEnglish}
+      title={wrongAnswers[0]?.wordEnglish}
+      key={wrongAnswers[0]?.wordEnglish}
       selectable
       onClick={onFailure}
     />,
     <ListChoice
-      title={wrongAnswers[1].wordEnglish}
-      key={wrongAnswers[1].wordEnglish}
+      title={wrongAnswers[1]?.wordEnglish}
+      key={wrongAnswers[1]?.wordEnglish}
       selectable
       onClick={onFailure}
     />,
     <ListChoice
-      title={wrongAnswers[2].wordEnglish}
-      key={wrongAnswers[2].wordEnglish}
+      title={wrongAnswers[2]?.wordEnglish}
+      key={wrongAnswers[2]?.wordEnglish}
       selectable
       onClick={onFailure}
     />,
@@ -114,10 +115,10 @@ function QuizCard({
   );
 }
 
-function LearningCards({ words, setLearningMode }) {
+function LearningCards({ words, setLearningMode, numberOfWords }) {
   const [learnWordIndex, setLearnWordIndex] = useState(0);
   function nextLearningStep() {
-    if (learnWordIndex === 5) {
+    if (learnWordIndex === numberOfWords - 1) {
       setLearningMode(false);
     } else {
       setLearnWordIndex(learnWordIndex + 1);
@@ -129,18 +130,26 @@ function LearningCards({ words, setLearningMode }) {
 }
 
 function QuizCards({ words, allWords, setPreviousAnswerStatus }) {
+  let history = useHistory();
+
   const [wordsQuiz, setWordsQuiz] = useState([
     ...getRandomNwords(words.length, words),
     ...getRandomNwords(words.length, words),
   ]);
+  console.log(allWords);
 
-  const allWordsWithoutShowedOne = allWords.filter(
-    (word) => word.wordSwedish !== wordsQuiz[0].wordSwedish
-  );
+  let allWordsWithoutShowedOne;
+  try {
+    allWordsWithoutShowedOne = allWords.filter(
+      (word) => word.wordSwedish !== wordsQuiz[0].wordSwedish
+    );
+  } catch (err) {
+    history.push("/success");
+  }
+
   const random3WrongAnswers = getRandomNwords(3, allWordsWithoutShowedOne);
 
   function onSuccess() {
-    console.log(wordsQuiz);
     setWordsQuiz(wordsQuiz.filter((_, i) => i !== 0));
   }
 
@@ -164,6 +173,9 @@ function AudioButton({ url, autoPlay = false }) {
   const audio = new Audio(url);
   useEffect(() => {
     autoPlay && audio.play();
+    return function () {
+      audio.pause();
+    };
   }, [audio, autoPlay]);
   function onClick() {
     audio.play();
@@ -171,14 +183,13 @@ function AudioButton({ url, autoPlay = false }) {
   return <button onClick={onClick}>play</button>;
 }
 
-export function Experience() {
-  //   const cashedData = JSON.parse(window.localStorage.getItem("words"));
+export function Experience({ numberOfWords }) {
   const words = data;
   const keys = Object.keys(words);
   const [learningMode, setLearningMode] = useState(true);
   const [groupName] = useState(keys[Math.floor(Math.random() * keys.length)]);
   const group = words[groupName];
-  const [selectedWords] = useState(getRandomNwords(6, group));
+  const [selectedWords] = useState(getRandomNwords(numberOfWords, group));
   const [previousAnswerStatus, setPreviousAnswerStatus] = useState("");
 
   return (
@@ -186,6 +197,7 @@ export function Experience() {
       <ExperienceTitle type="display">{groupName}</ExperienceTitle>
       {learningMode ? (
         <LearningCards
+          numberOfWords={numberOfWords}
           words={selectedWords}
           setLearningMode={setLearningMode}
         />
