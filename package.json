@@ -19,7 +19,7 @@
     "framer-motion": "^1.10.3",
     "gh-pages": "^2.2.0",
     "immer": "^6.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.1.2",
